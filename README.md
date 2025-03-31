@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 I’m currently working on: Contributing to open-source projects and building iOS apps using SwiftUI.<br>🤝 I’m looking to collaborate on: Swift, SwiftUI projects, and open-source development.<br>🛠️ I’m looking for help with: Advanced Swift topics like generics and improving error messages in Swift’s type system.<br>🌱 I’m currently learning: Functional programming in OCaml and refining my SwiftUI development skills.<br>💬 Ask me about: Swift development, open-source contributions, or building iOS apps.<br>⚡ Fun fact: I have a black belt... in debugging (and no, it doesn't involve actual karate).<br><br>
+🎯 I’m currently working on: Contributing to open-source projects and building iOS apps using SwiftUI.<br>🤝 I’m looking to collaborate on: Swift, SwiftUI projects, and open-source development.<br>🛠️ I’m looking for help with: Advanced Swift topics like generics and improving error messages in Swift’s type system.<br>🌱 I’m currently learning: Functional programming in OCaml and refining my SwiftUI development skills.<br>💬 Ask me about: Swift development, open-source contributions, or building iOS apps.<br>⚡ Fun fact: I am an excellent user if LLM's and can use it to boost my productivity.<br><br>
 
 
 ## 🌐 Socials:
