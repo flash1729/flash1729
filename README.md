@@ -14,7 +14,7 @@ apple [swift student challenge](https://developer.apple.com/swift-student-challe
 
 #### currently
 
-reading apinotes realted code — exploring how they could be extended for C++
+getting to know clang better — exploring how they could be extended for C++
 
 making open source iOS apps better
 
