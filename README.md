@@ -2,7 +2,7 @@
 
 # aditya medhane
 
-`compilers` · `iOS` · `swift` · `lambda calculus`
+`compilers` · `iOS` · `swift`
 
 ---
 
