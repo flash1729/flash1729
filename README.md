@@ -16,7 +16,7 @@ apple [swift student challenge](https://developer.apple.com/swift-student-challe
 
 getting to know clang better (mainly the diagnostics part)
 
-making open source iOS apps better
+making open source iOS apps better(VLC-iOS, OneBusAway-iOS)
 
 ---
 
