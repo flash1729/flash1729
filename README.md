@@ -14,9 +14,9 @@ apple [swift student challenge](https://developer.apple.com/swift-student-challe
 
 #### currently
 
-getting to know clang better (mainly the diagnostics part)
+CppAlliance Fellow @ Compiler Research — enhancing Clang diagnostics & upstreaming patches to LLVM (May–Nov 2026)
 
-making open source iOS apps better(VLC-iOS, OneBusAway-iOS)
+making open source iOS apps better (VLC-iOS, OneBusAway-iOS)
 
 ---
 
