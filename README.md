@@ -6,15 +6,15 @@
 
 ---
 
-fascinated by how compilers work — reading their internals is as fun as writing code for them.
+fascinated by how compilers work -- reading their internals is as fun as writing code for them.
 
-apple [swift student challenge](https://developer.apple.com/swift-student-challenge/) winner — built an app that teaches lambda calculus via an interpreter.
+apple [swift student challenge](https://developer.apple.com/swift-student-challenge/) winner -- built an app that teaches lambda calculus via an interpreter.
 
 ---
 
 #### currently
 
-CppAlliance Fellow @ Compiler Research - enhancing Clang diagnostics & upstreaming patches to LLVM
+CppAlliance Fellow @ Compiler Research -- enhancing Clang diagnostics & upstreaming patches to LLVM
 
 making open source iOS apps better (VLC-iOS, OneBusAway-iOS)
 
