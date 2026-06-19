@@ -14,9 +14,9 @@ apple [swift student challenge](https://developer.apple.com/swift-student-challe
 
 #### currently
 
-CppAlliance Fellow @ Compiler Research -- enhancing Clang diagnostics & upstreaming patches to LLVM
+[CppAlliance Fellow](https://compiler-research.org/careers/cppalliance-fellowship/) @ [Compiler-Research](https://compiler-research.org/team/AdityaMedhane) -- enhancing Clang diagnostics & upstreaming patches to LLVM
 
-making open source iOS apps better (VLC-iOS, OneBusAway-iOS)
+making open source iOS apps better ([VLC-iOS](https://code.videolan.org/videolan/vlc-ios), [OneBusAway-iOS](https://github.com/OneBusAway/onebusaway-ios))
 
 ---
 
