@@ -6,15 +6,17 @@
 
 ---
 
-fascinated by how compilers work -- reading their internals is as fun as writing code for them.
+fascinated by how compilers work. reading their internals is as fun as writing code for them.
 
-apple [swift student challenge](https://developer.apple.com/swift-student-challenge/) winner -- built an app that teaches lambda calculus via a built-in interpreter.
+apple [swift student challenge](https://developer.apple.com/swift-student-challenge/) winner. built an app that teaches lambda calculus via a built-in interpreter.
 
 ---
 
 #### currently
 
-[CppAlliance Fellow](https://compiler-research.org/careers/cppalliance-fellowship/) @ [Compiler-Research](https://compiler-research.org/team/AdityaMedhane) -- enhancing Clang diagnostics & upstreaming patches to LLVM
+[CppAlliance Fellow](https://compiler-research.org/careers/cppalliance-fellowship/) @ [Compiler-Research](https://compiler-research.org/team/AdityaMedhane), enhancing Clang diagnostics & upstreaming patches to LLVM
+
+**30 merged PRs in [llvm/llvm-project](https://github.com/llvm/llvm-project/pulls?q=is%3Apr+author%3Aflash1729+is%3Amerged)** · catalogued in [llvm-contributions](https://github.com/flash1729/llvm-contributions)
 
 making open source iOS apps better ([VLC-iOS](https://code.videolan.org/videolan/vlc-ios), [OneBusAway-iOS](https://github.com/OneBusAway/onebusaway-ios))
 
